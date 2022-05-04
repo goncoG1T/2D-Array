@@ -1,6 +1,5 @@
 package com.goncoG1T.application;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Program {
@@ -14,7 +13,7 @@ public class Program {
         System.out.print("Enter the number of columns: ");
         int column = sc.nextInt();
 
-        int matrix[][] = new int[line][column];
+        int[][] matrix = new int[line][column];
 
         System.out.println("\n**** Inserting data ****");
         for (int i = 0; i < line; i++) {
