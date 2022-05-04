@@ -27,12 +27,13 @@ public class Program {
 
         System.out.print("\nChoose a number to be found: ");
         int chosenNumber = sc.nextInt();
+        boolean flag = false;
 
         for (int i = 0; i < line; i++) {
             for (int j = 0; j < column; j++) {
 
               if(matrix[i][j] == chosenNumber){
-
+                  flag = true;
                   System.out.printf("\nFound!\nAt: line %d, column %d.",i, j);
 
                   if(j-1 >= 0) {
@@ -50,6 +51,10 @@ public class Program {
                   System.out.println();
               }
             }
+        }
+
+        if (!flag){
+            System.out.println("\nNumber not found!");
         }
     }
 }
