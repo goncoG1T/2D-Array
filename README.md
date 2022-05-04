@@ -1,4 +1,4 @@
-#2D-Array
+## 2D-Array
 
 Utilização de Matriz(Array 2D) para inserção e localização (exercício de fixação).
 
@@ -14,7 +14,7 @@ Encontrando o número escolhido, revelando sua posição e de seus vizinhos:
 
 ![image](https://user-images.githubusercontent.com/61762440/166574957-1bdd7f83-835c-46cf-baae-1bc7fdfe93d0.png)
 
-#COMO RODAR?
+## Como rodar?
 
 Para rodar é necessário apenas localizar o .jar no diretório "out/artifacts/workingWith2dArray_jar/" e pelo cmd ou bash digite "java -jar <'caminho para o jar'>".
 
