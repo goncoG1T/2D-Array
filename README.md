@@ -33,6 +33,8 @@ Resultado da busca, caso o número não seja encontrado:
 
 ## Como rodar?
 
+* Requisitos: Java (JRE 11 ou superior).
+
 Para fazer download clique [aqui](https://github.com/goncoG1T/2D-Array/blob/main/out/artifacts/workingWith2dArray_jar/workingWith2dArray.jar?raw=true). 
 
 Você deverá localizar o .jar no diretório em que foi salvo e pelo cmd ou bash e execute o comando "java -jar workingWith2dArray" nesta mesma pasta.
