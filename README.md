@@ -33,8 +33,11 @@ Resultado da busca, caso o número não seja encontrado:
 
 ## Como rodar?
 
-Para rodar é necessário localizar o .jar no diretório "out/artifacts/workingWith2dArray_jar/" e pelo cmd ou bash digite e execute "java -jar workingWith2dArray".
+Para fazer download clique [aqui](https://github.com/goncoG1T/2D-Array/blob/main/out/artifacts/workingWith2dArray_jar/workingWith2dArray.jar?raw=true). 
+
+Você deverá localizar o .jar no diretório e pelo cmd ou bash e execute o comando "java -jar workingWith2dArray".
 
 ![image](https://user-images.githubusercontent.com/61762440/166611654-ea4acf60-fe2c-4720-a784-ee194c7a39c0.png)
 
-Projeto escrito em JDK 11.
+Este projeto foi escrito em JDK 11.
+
