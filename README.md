@@ -35,7 +35,7 @@ Resultado da busca, caso o número não seja encontrado:
 
 Para fazer download clique [aqui](https://github.com/goncoG1T/2D-Array/blob/main/out/artifacts/workingWith2dArray_jar/workingWith2dArray.jar?raw=true). 
 
-Você deverá localizar o .jar no diretório e pelo cmd ou bash e execute o comando "java -jar workingWith2dArray".
+Você deverá localizar o .jar no diretório em que foi salvo e pelo cmd ou bash e execute o comando "java -jar workingWith2dArray" nesta mesma pasta.
 
 ![image](https://user-images.githubusercontent.com/61762440/166611654-ea4acf60-fe2c-4720-a784-ee194c7a39c0.png)
 
